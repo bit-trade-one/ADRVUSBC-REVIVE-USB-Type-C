@@ -31,7 +31,7 @@
 ## Q: 設定ツールからボードが認識されません。
 
 ### A1: 旧版REVIVE用の設定ツールを利用していないかご確認ください。
-新REVIVE Microの設定ツールは[こちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/tree/master/App)からダウンロードできます。
+新REVIVE Microの設定ツールは[こちら](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/tree/main/App)からダウンロードできます。
 
 ### A2: 「デバイスとプリンター」などで接続が確認できている場合、一度ドライバーを削除したのち再接続を行ってください。
 ドライバーが再インストールされ、問題が解決することがあります。
