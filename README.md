@@ -1,0 +1,1 @@
+# ADRVUSBC-REVIVE-USB-Type-C
