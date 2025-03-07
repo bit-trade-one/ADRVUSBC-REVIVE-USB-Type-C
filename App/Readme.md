@@ -5,9 +5,9 @@
 ## ファイルリスト
 
 
- - [Rev1](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/raw/master/App/Rev1)
+ - [Rev1](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/tree/main/App/Rev1)
     - Revive_USB_TypeC_Ex_CT_v100.zip(通常版)
- - [Matrix](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/raw/master/App/Matrix)
+ - [Matrix](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/tree/main/App/Matrix)
     - Revive_USB_TypeC_MATRIX_CT_v100.zip(マトリックス版)  
 
   
