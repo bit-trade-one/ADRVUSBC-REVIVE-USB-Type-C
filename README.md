@@ -13,7 +13,13 @@
 
 ## [製品HP](http://bit-trade-one.co.jp/adrvusbc/) 
 
-## [ファイルダウンロード・説明サイト](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/)  
+## [ファイルダウンロード・説明サイト（GitHub）](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/)  
+
+## [設定ツール（通常版）使用方法]()
+
+## [設定ツール（マトリックス版）使用方法]()
+
+## [ファームウェアアップデート]()
 
 ## 製品仕様
     【対応OS】Windows7以降
