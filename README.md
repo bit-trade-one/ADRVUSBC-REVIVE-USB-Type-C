@@ -15,11 +15,11 @@
 
 ## [ファイルダウンロード・説明サイト（GitHub）](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/)  
 
-## [設定ツール（通常版）使用方法]()
+## [設定ツール（通常版）使用方法](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/blob/main/doc/%E8%A8%AD%E5%AE%9A%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%88%E9%80%9A%E5%B8%B8%E7%89%88%EF%BC%89%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.pdf)
 
 ## [設定ツール（マトリックス版）使用方法]()
 
-## [ファームウェアアップデート]()
+## [ファームウェアアップデート](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/blob/main/doc/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.pdf)
 
 ## 製品仕様
     【対応OS】Windows7以降
