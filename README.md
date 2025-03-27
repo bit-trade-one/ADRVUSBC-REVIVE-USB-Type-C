@@ -32,3 +32,8 @@
     【保証期間】 1年間
     【付属品】保証書 1部
     【生産国】Made in Japan
+
+
+## 製品仕様
+
+[「PC Watch」様 / 「簡単にUSB Type-C接続の入力デバイスが自作できるモジュール」]([https://bit-trade-one.co.jp/blog/20190802/](https://pc.watch.impress.co.jp/docs/news/1668429.html)
