@@ -36,4 +36,4 @@
 
 ## 製品仕様
 
-[「PC Watch」様 / 「簡単にUSB Type-C接続の入力デバイスが自作できるモジュール」]([https://bit-trade-one.co.jp/blog/20190802/](https://pc.watch.impress.co.jp/docs/news/1668429.html)
+[「PC Watch」様 / 「簡単にUSB Type-C接続の入力デバイスが自作できるモジュール」](https://pc.watch.impress.co.jp/docs/news/1668429.html)
