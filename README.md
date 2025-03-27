@@ -34,6 +34,6 @@
     【生産国】Made in Japan
 
 
-## 製品仕様
+## 掲載
 
 [「PC Watch」様 / 「簡単にUSB Type-C接続の入力デバイスが自作できるモジュール」](https://pc.watch.impress.co.jp/docs/news/1668429.html)
