@@ -21,6 +21,8 @@
 
 ## [ファームウェアアップデート](https://github.com/bit-trade-one/ADRVUSBC-REVIVE-USB-Type-C/blob/main/doc/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88.pdf)
 
+## [FAQ](FAQ.md)
+
 ## 製品仕様
     【対応OS】Windows7以降
     【サイズ】W16×D20×H5mm
